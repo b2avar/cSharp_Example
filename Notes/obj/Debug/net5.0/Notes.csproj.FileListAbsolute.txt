@@ -1,0 +1,16 @@
+D:\Users\Tednokent\CSharp\cSharp_Example\Notes\bin\Debug\net5.0\Notes.exe
+D:\Users\Tednokent\CSharp\cSharp_Example\Notes\bin\Debug\net5.0\Notes.deps.json
+D:\Users\Tednokent\CSharp\cSharp_Example\Notes\bin\Debug\net5.0\Notes.runtimeconfig.json
+D:\Users\Tednokent\CSharp\cSharp_Example\Notes\bin\Debug\net5.0\Notes.runtimeconfig.dev.json
+D:\Users\Tednokent\CSharp\cSharp_Example\Notes\bin\Debug\net5.0\Notes.dll
+D:\Users\Tednokent\CSharp\cSharp_Example\Notes\bin\Debug\net5.0\ref\Notes.dll
+D:\Users\Tednokent\CSharp\cSharp_Example\Notes\bin\Debug\net5.0\Notes.pdb
+D:\Users\Tednokent\CSharp\cSharp_Example\Notes\obj\Debug\net5.0\Notes.csproj.AssemblyReference.cache
+D:\Users\Tednokent\CSharp\cSharp_Example\Notes\obj\Debug\net5.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Tednokent\CSharp\cSharp_Example\Notes\obj\Debug\net5.0\Notes.AssemblyInfoInputs.cache
+D:\Users\Tednokent\CSharp\cSharp_Example\Notes\obj\Debug\net5.0\Notes.AssemblyInfo.cs
+D:\Users\Tednokent\CSharp\cSharp_Example\Notes\obj\Debug\net5.0\Notes.csproj.CoreCompileInputs.cache
+D:\Users\Tednokent\CSharp\cSharp_Example\Notes\obj\Debug\net5.0\Notes.dll
+D:\Users\Tednokent\CSharp\cSharp_Example\Notes\obj\Debug\net5.0\ref\Notes.dll
+D:\Users\Tednokent\CSharp\cSharp_Example\Notes\obj\Debug\net5.0\Notes.pdb
+D:\Users\Tednokent\CSharp\cSharp_Example\Notes\obj\Debug\net5.0\Notes.genruntimeconfig.cache
